@@ -1,0 +1,21 @@
+
+
+#oneid {
+    color:blue;
+    font-size: 36px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+#anotherid {
+    background-color: rgb(79, 185, 79);
+    font-size: 24px;
+}
+
+.odd {
+    background-color: palevioletred;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
